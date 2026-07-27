@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-07d37b.indcuan.sbs/sitemap.xml
